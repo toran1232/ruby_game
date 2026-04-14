@@ -1,4 +1,4 @@
-require_relative  '../model/player'
+require_relative  '../models/player'
 def encount_log(enemy)
   puts "#{enemy.name}が現れた！！"
 end
