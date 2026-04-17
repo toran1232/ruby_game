@@ -1,6 +1,6 @@
 require_relative  '../view/log'
-require_relative  '../model/player'
-require_relative  '../model/enemy'
+require_relative  '../models/player'
+require_relative  '../models/enemy'
 module Command
   def encount(player, enemy)
       
